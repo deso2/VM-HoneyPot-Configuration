@@ -1,4 +1,4 @@
-# VM Configuration on Azure
+# Honeynet VM Configuration on Azure
 
 <img width="700" src="https://github.com/deso2/VM-HoneyPot-Configuration/assets/168561314/82e04c77-8284-4ee8-a054-81943d7484b9">
 
